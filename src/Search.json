@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Garrett G",
+        "age": "22",
+        "ethnicity": "Nigerian",
+        "occupation": "Desktop Manager"
+    },
+    {
+        "name": "Harrison B",
+        "age": "27",
+        "ethnicity": "Korean",
+        "occupation": "CEO"
+    },    
+    {
+        "name": "Jennifer M",
+        "age": "34",
+        "ethnicity": "Chinese",
+        "occupation": "Entrepreneur"
+    },
+    {
+        "name": "Michelle P",
+        "age": "25",
+        "ethnicity": "European",
+        "occupation": "Software Engineer"
+    },
+    {
+        "name": "Brandon C",
+        "age": "26",
+        "ethnicity": "American",
+        "occupation": "Customer Service Representative"
+    },
+    {
+        "name": "John I",
+        "age": "36",
+        "ethnicity": "Spanish",
+        "occupation": "Pharmacist"
+    },
+    {
+        "name": "Josh B",
+        "age": "27",
+        "ethnicity": "Puerto Rican",
+        "occupation": "Doctor"
+    },
+    {
+        "name": "Jason H",
+        "age": "29",
+        "ethnicity": "Puerto Rican",
+        "occupation": "Software Engineer"
+    },
+    {
+        "name": "Jason V",
+        "age": "28",
+        "ethnicity": "Dominican",
+        "occupation": "Data Analysis"
+    }
+]
